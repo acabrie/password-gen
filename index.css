@@ -1,9 +1,11 @@
 
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
 body {
     margin: 0;
     padding: 40px;
-    
+    font-family: 'Poppins';
 }
 
 .container{
@@ -15,6 +17,7 @@ body {
     padding: 40px;
     color: white;
     max-width: 500px;
+    font-family: 'Poppins';
 }
 
 h1{
